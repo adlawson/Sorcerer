@@ -103,7 +103,7 @@ hi link pythonDecoratorFunction pythonDecorator
 
 " 256 Colors {{{1
 " ============================================================================
-hi Normal                 cterm=NONE             ctermbg=235   ctermfg=145
+hi Normal                 cterm=NONE             ctermbg=NONE  ctermfg=145
 hi ColorColumn            cterm=NONE             ctermbg=16    ctermfg=fg
 hi Cursor                 cterm=NONE             ctermbg=241   ctermfg=fg
 hi CursorColumn           cterm=NONE             ctermbg=16    ctermfg=fg
