@@ -59,6 +59,7 @@ hi Title        guifg=#528b8b guibg=NONE    gui=bold
 hi Visual       guifg=#000000 guibg=#6688aa gui=NONE
 hi WarningMsg   guifg=#ee9a00 guibg=NONE    gui=NONE
 hi WildMenu     guifg=#000000 guibg=#87ceeb gui=NONE
+hi ExtraWhitespace guifg=fg   guibg=#528b8b gui=NONE
 
 "  Syntax highlighting
 hi Comment      guifg=#686858 gui=italic
@@ -143,6 +144,7 @@ hi Title                  cterm=bold             ctermbg=NONE  ctermfg=66
 hi Visual                 cterm=NONE             ctermbg=67    ctermfg=16
 hi WarningMsg             cterm=NONE             ctermbg=234   ctermfg=208
 hi WildMenu               cterm=NONE             ctermbg=116   ctermfg=16
+hi ExtraWhitespace        cterm=NONE             ctermbg=66    ctermfg=fg
 
 hi Comment                cterm=NONE             ctermbg=NONE    ctermfg=59
 hi Boolean                cterm=NONE             ctermbg=NONE    ctermfg=208
