@@ -1,5 +1,6 @@
 " 'sorcerer.vim' -- Vim color scheme.
-" Maintainer:   Jeet Sukumaran
+" Maintainer: Andrew Lawson
+" Forked from 'vim-scripts/Sorcerer' by Jeet Sukumaran
 " Based on 'Mustang' by Henrique C. Alves (hcarvalhoalves@gmail.com),
 
 set background=dark
