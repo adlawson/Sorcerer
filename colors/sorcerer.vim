@@ -29,7 +29,7 @@ hi ErrorMsg     guifg=#ff6a6a guibg=NONE    gui=bold
 hi FoldColumn   guifg=#68838b guibg=#4B4B4B gui=bold
 hi Folded       guifg=#406060 guibg=#232c2c gui=NONE
 hi IncSearch    guifg=#ffffff guibg=#ff4500 gui=bold
-hi LineNr       guifg=#686858 guibg=#000000 gui=NONE
+hi LineNr       guifg=#686858 guibg=bg      gui=NONE
 hi MatchParen   guifg=#fff000 guibg=#000000 gui=bold
 hi ModeMsg      guifg=#000000 guibg=#00ff00 gui=bold
 hi MoreMsg      guifg=#2e8b57 guibg=bg      gui=bold
@@ -42,7 +42,7 @@ hi PmenuSel     guifg=#000000 guibg=#b1d631
 
 hi Question     guifg=#00ee00 guibg=NONE    gui=bold
 hi Search       guifg=#000000 guibg=#d6e770 gui=bold
-hi SignColumn   guifg=#ffffff guibg=#cdcdb4 gui=NONE
+hi SignColumn   guifg=#ffffff guibg=bg      gui=NONE
 hi SpecialKey   guifg=#505060 guibg=NONE    gui=NONE
 hi SpellBad     guisp=#ee2c2c gui=undercurl
 hi SpellCap     guisp=#0000ff gui=undercurl
@@ -116,7 +116,7 @@ hi ErrorMsg               cterm=bold             ctermbg=bg    ctermfg=203
 hi FoldColumn             cterm=bold             ctermbg=239   ctermfg=66
 hi Folded                 cterm=NONE             ctermbg=16    ctermfg=60
 hi IncSearch              cterm=bold             ctermbg=202   ctermfg=231
-hi LineNr                 cterm=NONE             ctermbg=16    ctermfg=59
+hi LineNr                 cterm=NONE             ctermbg=bg    ctermfg=59
 hi MatchParen             cterm=bold             ctermbg=16    ctermfg=226
 hi ModeMsg                cterm=bold             ctermbg=46    ctermfg=16
 hi MoreMsg                cterm=bold             ctermbg=234   ctermfg=29
@@ -126,7 +126,7 @@ hi PmenuSbar              cterm=NONE             ctermbg=250   ctermfg=fg
 hi PmenuSel               cterm=NONE             ctermbg=149   ctermfg=16
 hi Question               cterm=bold             ctermbg=bg    ctermfg=46
 hi Search                 cterm=bold             ctermbg=185   ctermfg=16
-hi SignColumn             cterm=NONE             ctermbg=187   ctermfg=231
+hi SignColumn             cterm=NONE             ctermbg=bg    ctermfg=231
 hi SpecialKey             cterm=NONE             ctermbg=bg    ctermfg=59
 hi SpellBad               cterm=undercurl        ctermbg=bg    ctermfg=196
 hi SpellCap               cterm=undercurl        ctermbg=bg    ctermfg=21
