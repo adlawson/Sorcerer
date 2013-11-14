@@ -60,7 +60,7 @@ hi WarningMsg   guifg=#ee9a00 guibg=NONE    gui=NONE
 hi WildMenu     guifg=#000000 guibg=#87ceeb gui=NONE
 
 "  Syntax highlighting
-hi Comment      guifg=#707670 gui=italic
+hi Comment      guifg=#686858 gui=italic
 hi Boolean      guifg=#ff9800 gui=NONE
 hi String       guifg=#779b70 gui=NONE
 hi Identifier   guifg=#9ebac2 gui=NONE
@@ -143,7 +143,7 @@ hi Visual                 cterm=NONE             ctermbg=67    ctermfg=16
 hi WarningMsg             cterm=NONE             ctermbg=234   ctermfg=208
 hi WildMenu               cterm=NONE             ctermbg=116   ctermfg=16
 
-hi Comment                cterm=NONE             ctermbg=NONE    ctermfg=65
+hi Comment                cterm=NONE             ctermbg=NONE    ctermfg=59
 hi Boolean                cterm=NONE             ctermbg=NONE    ctermfg=208
 hi String                 cterm=NONE             ctermbg=NONE    ctermfg=101
 hi Identifier             cterm=NONE             ctermbg=NONE    ctermfg=145
